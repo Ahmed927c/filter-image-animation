@@ -28,3 +28,8 @@ framer motion = https://www.framer.com/docs/introduction<br />
 put env in vite = https://vitejs.dev/guide/env-and-mode.html<br />
 put ent in cra = https://create-react-app.dev/docs<br />
 
+### live demo:
+https://filter-image-animation.netlify.app/
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
+
